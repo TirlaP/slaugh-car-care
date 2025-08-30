@@ -51,7 +51,7 @@ const AboutSection = () => {
                   }}
                   className="text-center text-4xl font-black text-default md:text-5xl lg:text-start lg:text-6xl lg:leading-[50px] xl:leading-[70px]"
                >
-                  SLAUGH'S CAR CARE - SALT LAKE CITY AUTO REPAIR
+                  SLAUGH&apos;S CAR CARE - SALT LAKE CITY AUTO REPAIR
                </MotionH2>
 
                <MotionP
@@ -72,7 +72,7 @@ const AboutSection = () => {
                   }}
                   className="text-center font-body text-base font-normal text-default-foreground md:text-lg md:leading-7 lg:text-start"
                >
-                  Since 1987 Mike Slaugh and the crew at Slaugh's Car Care have served the Salt Lake City area with honest and reliable automotive repair services. All of our professional mechanics are ASE certified and dedicated to getting you on the road safely as soon as possible. Our technicians are honest, skilled, and friendly, and we develop strong relationships with all of our customers. We're big enough to serve you but small enough to know you!
+                  Since 1987 Mike Slaugh and the crew at Slaugh&apos;s Car Care have served the Salt Lake City area with honest and reliable automotive repair services. All of our professional mechanics are ASE certified and dedicated to getting you on the road safely as soon as possible. Our technicians are honest, skilled, and friendly, and we develop strong relationships with all of our customers. We&apos;re big enough to serve you but small enough to know you!
                </MotionP>
 
                <MotionDiv
@@ -97,7 +97,7 @@ const AboutSection = () => {
                   }}
                >
                   <p className="text-xs font-extrabold uppercase text-default-foreground sm:text-sm md:text-base xl:text-lg">
-                     &quot;Professional. Experienced. Honest. For over 35 years Slaugh's Car Care has served Salt Lake City with quality and affordable auto repair and maintenance.&quot;
+                     &quot;Professional. Experienced. Honest. For over 35 years Slaugh&apos;s Car Care has served Salt Lake City with quality and affordable auto repair and maintenance.&quot;
                   </p>
                   <SpannerIcon className="absolute right-20 top-1/2 -translate-y-2/4 fill-white opacity-10" />
                </MotionDiv>

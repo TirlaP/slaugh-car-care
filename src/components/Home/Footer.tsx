@@ -117,7 +117,7 @@ const Footer = () => {
 
             <p className="hidden text-center font-body text-base font-medium leading-5 text-default-foreground lg:block">
                Copyright &copy; 2025{" "}
-               <span className="font-bold text-tertiary">Slaugh's Car Care</span>. All
+               <span className="font-bold text-tertiary">Slaugh&apos;s Car Care</span>. All
                Rights Reserved
             </p>
 
