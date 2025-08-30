@@ -17,19 +17,19 @@ const service1_data = [
    },
    {
       id: 2,
-      title: "Brake\nService",
+      title: "Brake Repair &\nReplacement",
       bgImage: "bg-[url('/images/image-45.png')]",
       Icon: DiscBrakeIcon,
    },
    {
       id: 3,
-      title: "Tune\nUps",
+      title: "Diagnostics &\nCheck Engine",
       bgImage: "bg-[url('/images/image-46.png')]",
       Icon: CarEngineIcon,
    },
    {
       id: 4,
-      title: "General Auto\nRepair",
+      title: "Safety &\nEmissions Inspections",
       bgImage: "bg-[url('/images/image-47.png')]",
       Icon: WrenchIcon,
    },
@@ -38,26 +38,26 @@ const service1_data = [
 const features1_data = [
    {
       id: 1,
-      title: "best technician",
-      desc: "Aliquet morbi euismod justo acide velen imperd ligula nase posuere",
+      title: "35+ Years Experience",
+      desc: "Serving Salt Lake City since 1987 with honest and reliable automotive repair services",
       icon: "icon-2.png",
    },
    {
       id: 2,
-      title: "full warranty",
-      desc: "Aliquet morbi euismod justo acide velen imperd ligula nase posuere",
+      title: "ASE Certified Mechanics",
+      desc: "All our professional mechanics are ASE certified and dedicated to quality service",
       icon: "icon-3.png",
    },
    {
       id: 3,
-      title: "domestic repair",
-      desc: "Aliquet morbi euismod justo acide velen imperd ligula nase posuere",
+      title: "All Makes & Models",
+      desc: "We service all makes and models with mechanical repair and maintenance services",
       icon: "icon-4.png",
    },
    {
       id: 4,
-      title: "client familiar",
-      desc: "Aliquet morbi euismod justo acide velen imperd ligula nase posuere",
+      title: "Personal Service",
+      desc: "We're big enough to serve you but small enough to know you personally",
       icon: "icon-5.png",
    },
 ];

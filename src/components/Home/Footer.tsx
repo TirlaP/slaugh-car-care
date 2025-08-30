@@ -38,7 +38,7 @@ const Footer = () => {
                               Email us
                            </h5>
                            <p className="text-lg font-normal leading-7 text-default-foreground">
-                              contact@libertyautoslc.com
+                              info@slaughscarcare.com
                            </p>
                         </div>
                      </li>
@@ -52,7 +52,7 @@ const Footer = () => {
                               phone no
                            </h5>
                            <p className="text-lg font-normal leading-7 text-default-foreground">
-                              +1 801-941-1604
+                              (801) 532-4954
                            </p>
                         </div>
                      </li>
@@ -66,8 +66,7 @@ const Footer = () => {
                               location
                            </h5>
                            <p className="text-lg font-normal leading-7 text-default-foreground">
-                              528 seltice way coeur alene <br /> ID 83814,
-                              California.
+                              807 E 200 S <br /> Salt Lake City, Utah
                            </p>
                         </div>
                      </li>
@@ -81,7 +80,7 @@ const Footer = () => {
                   </h4>
 
                   <p className="text-lg font-normal leading-7 text-default-foreground">
-                     Signup for our monthly newsletter to get the latest news.
+                     Stay updated with our latest automotive tips and service reminders.
                   </p>
 
                   <div className="my-4 grid gap-y-3 md:my-[30px] md:gap-y-5">
@@ -117,8 +116,8 @@ const Footer = () => {
             </div>
 
             <p className="hidden text-center font-body text-base font-medium leading-5 text-default-foreground lg:block">
-               Copyright &copy; 2024{" "}
-               <span className="font-bold text-tertiary">Liberty Auto SLC</span>. All
+               Copyright &copy; 2025{" "}
+               <span className="font-bold text-tertiary">Slaugh's Car Care</span>. All
                Rights Reserved
             </p>
 

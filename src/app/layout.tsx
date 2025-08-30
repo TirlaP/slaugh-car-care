@@ -16,10 +16,10 @@ const orbitron = Orbitron({
 
 export const metadata: Metadata = {
    title: {
-      template: "%s - Liberty Auto SLC",
-      default: "Liberty Auto SLC - Small neighborhood repair shop with the customer in mind",
+      template: "%s - Slaugh's Car Care",
+      default: "Slaugh's Car Care - Salt Lake City Auto Repair Experts",
    },
-   description: "Small neighborhood repair shop with the customer in mind. Auto repair isn't cheap but it doesn't have to break the bank. Liberty Auto Repair in Salt Lake City.",
+   description: "Slaugh's Car Care has served Salt Lake City since 1987 with professional, experienced, and honest auto repair. ASE certified mechanics, all makes & models. Call (801) 532-4954.",
 };
 
 export default function RootLayout({
